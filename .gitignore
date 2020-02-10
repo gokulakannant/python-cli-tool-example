@@ -1,0 +1,7 @@
+__pycache__
+/build/*
+/dist/*
+!/dist/python_cli/
+/dist/python_cli/*
+!/dist/python_cli/python_cli
+*.spec
